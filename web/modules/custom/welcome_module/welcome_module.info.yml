@@ -1,0 +1,8 @@
+name: Ashes Module
+type: module
+description: "Custom created module for Ashes Project"
+package: custom
+version: 8.x
+core_version_requirement: ^9 || ^10
+dependencies:
+  - drupal:block
